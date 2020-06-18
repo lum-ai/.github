@@ -2,7 +2,7 @@
 name: "\U0001F4DA Documentation"
 about: Code comments and end-user documentation
 title: ''
-labels: ''
+labels: documentation, triage
 assignees: ''
 
 ---

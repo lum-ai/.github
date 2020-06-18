@@ -2,7 +2,7 @@
 name: ¯\_(ツ)_/¯ Question
 about: Information, how-to, clarification
 title: ''
-labels: ''
+labels: "status: need help", triage
 assignees: ''
 
 ---

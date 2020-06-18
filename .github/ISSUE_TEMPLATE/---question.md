@@ -1,5 +1,5 @@
 ---
-name: Question
+name: ¯\_(ツ)_/¯ Question
 about: Information, how-to, clarification
 title: ''
 labels: ''
